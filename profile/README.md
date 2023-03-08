@@ -17,3 +17,14 @@ Our expertise lies in machine learning, with a focus on computer vision technolo
 Our experienced team is skilled in developing deep learning products, improving their accuracy, and optimizing their speed on mobile and embedded devices.
 
 We are actively seeking opportunities to develop machine learning technologies and also offer Android/iOS app development and web application development services.
+
+Please contact us:
+```
+Email: kby-ai@outlook.com
+
+Skype: live:.cid.66e2522354b1049b
+
+Telegram: kbyai
+
+WahtsApp: +19092802609
+```
