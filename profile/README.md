@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-KBY-AI offers SDKs for face recognition, liveness detection, and document recognition. 
+KBY-AI offers SDKs for face recognition, liveness detection, and id document recognition. 
 
 Our expertise lies in machine learning, with a focus on computer vision technologies such as license plate recognition, super resolution, image segmentation, palm vein/print recognition, and object detection. 
 
