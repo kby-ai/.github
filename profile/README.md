@@ -22,8 +22,6 @@ Please contact us:
 ```
 Email: kby-ai@outlook.com
 
-Skype: live:.cid.66e2522354b1049b
-
 Telegram: kbyai
 
 WahtsApp: +19092802609
