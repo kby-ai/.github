@@ -22,7 +22,7 @@ Please contact us:
 ```
 Email: kby-ai@outlook.com
 
-Telegram: kbyai
+Telegram: @kbyai
 
 WhatsApp: +19092802609
 ```
