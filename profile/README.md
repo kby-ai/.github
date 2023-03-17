@@ -20,7 +20,7 @@ We are actively seeking opportunities to develop machine learning technologies a
 
 Please contact us:
 ```
-Email: kby-ai@outlook.com
+Email: contact@kby-ai.com
 
 Telegram: @kbyai
 
