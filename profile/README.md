@@ -17,6 +17,7 @@ With over 8 years of research and development in face recognition and liveness d
 We are proud to have a team of skilled engineers who have expertise in developing deep learning products, improving their accuracy, and optimizing their speed on mobile and embedded devices. Our team members have a passion for technology and are constantly striving to improve our products and services.
 
 In summary, KBY-AI Technology is a team of dedicated professionals who are committed to providing innovative and reliable biometric authentication solutions. Our experience in face recognition, liveness detection, and ID document recognition, combined with our expertise in deep learning, allows us to deliver cutting-edge products that meet the needs of our clients.
+
 Please contact us:
 ```
 Email: contact@kby-ai.com
