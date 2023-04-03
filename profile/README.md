@@ -10,13 +10,13 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-KBY-AI Technology is a team of experts dedicated to providing state-of-the-art software development kits for biometric authentication. Our team provides face recognition, liveness detection, and ID document recognition SDKs for various platforms such as Android, iOS, Windows, and Linux.
+We are a leading provider of SDKs for advanced biometric authentication technology, including face recognition, liveness detection, and ID card recognition.
 
-With over 8 years of research and development in face recognition and liveness detection algorithms, we have a solid foundation to pursue a career in the field of biometric authentication. Our team has a deep understanding of deep learning and machine learning technologies, which enables us to develop highly accurate and efficient products.
+Additionally, we specialize in computer vision, mobile app development, and UI/UX design, providing innovative solutions to businesses of all sizes.
 
-We are proud to have a team of skilled engineers who have expertise in developing deep learning products, improving their accuracy, and optimizing their speed on mobile and embedded devices. Our team members have a passion for technology and are constantly striving to improve our products and services.
+With our team's extensive knowledge and proficiency in these areas, we can deliver exceptional results to our clients.
 
-In summary, KBY-AI Technology is a team of dedicated professionals who are committed to providing innovative and reliable biometric authentication solutions. Our experience in face recognition, liveness detection, and ID document recognition, combined with our expertise in deep learning, allows us to deliver cutting-edge products that meet the needs of our clients.
+If you're interested in learning more about how we can help you, please don't hesitate to get in touch with us today.
 
 Please contact us:
 ```
