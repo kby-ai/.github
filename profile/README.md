@@ -12,7 +12,7 @@
 -->
 We are a leading provider of SDKs for advanced biometric authentication technology, including face recognition, liveness detection, and ID card recognition.
 
-In addition to biometric authentication solutions, we provide software development services for computer vision, mobile applications, and UI/UX design. 
+In addition to biometric authentication solutions, we provide software development services for computer vision and mobile applications. 
 
 With our team's extensive knowledge and proficiency in these areas, we can deliver exceptional results to our clients.
 
