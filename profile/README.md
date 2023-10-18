@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://play.google.com/store/apps/dev?id=7086930298279250852" target="_blank">
-    <img alt="" src="https://github.com/kby-ai/.github/assets/125717930/a3c00f0b-36bd-4037-9aac-85619ae940ee" width=600 height=300/>
+    <img alt="" src="https://github-production-user-asset-6210df.s3.amazonaws.com/125717930/246971879-8ce757c3-90dc-438d-807f-3f3d29ddc064.png" width=1000/>
   </a>  
 </p>
 
