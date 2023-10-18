@@ -17,7 +17,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-We are a leading provider of SDKs for advanced biometric authentication technology, including face recognition, liveness detection, anti-spoofing, and ID card recognition.
+We are a leading provider of SDKs for advanced biometric authentication technology, including face recognition, liveness detection(anti-spoofing), and ID card recognition.
 
 In addition to biometric authentication solutions, we provide software development services for computer vision and mobile applications. 
 
