@@ -23,7 +23,7 @@ In addition to biometric authentication solutions, we provide software developme
 
 With our team's extensive knowledge and proficiency in these areas, we can deliver exceptional results to our clients.
 
-If you're interested in learning more about how we can help you, please don't hesitate to get in touch with us today.
+If you're interested in learning more about how we can help you, please don't hesitate to get in touch with us soon.
 
 Please contact us:
 ```
