@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://play.google.com/store/apps/dev?id=7086930298279250852" target="_blank">
-    <img alt="" src="https://github.com/kby-ai/.github/assets/125717930/db678cea-4d8e-4c99-a3df-eb44c85c1802" width=500/>
-  </a>  
-</p>
-
 ## Hi there 👋
 
 <!--
