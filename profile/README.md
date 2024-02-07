@@ -11,19 +11,14 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 We offer SDKs for Face Recognition, Face Liveness Detection(Face Anti-Spoofing), and ID Card Recognition.
-
-Besides that, we can provide several AI models and development services in machine learning.
+<br/>Besides that, we can provide several AI models and development services in machine learning.
 
 Please contact us:
 ```
 Email: contact@kby-ai.com
-
 Telegram: @kbyai
-
 WhatsApp: +19092802609
-
 Skype: live:.cid.66e2522354b1049b
-
 Facebook: https://www.facebook.com/KBYAI
 ```
 
