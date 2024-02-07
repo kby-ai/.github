@@ -37,5 +37,16 @@ https://github.com/kby-ai/Product
 ## Simple Installation & Simple API
 ```
 pip install kbyai
+
+
+from kbyai import facesdk
+from kbyai import idsdk
+
+facesdk.check_liveness
+facesdk.check_liveness_base64
+facesdk.compare_face
+facesdk.compare_face_base64
+idsdk.idcard_recognition
+idsdk.idcard_recognition_base64
 ```
 https://pypi.org/project/kbyai
