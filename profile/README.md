@@ -33,3 +33,9 @@ Facebook: https://www.facebook.com/KBYAI
 
 ## Product & Resources
 https://github.com/kby-ai/Product
+
+## Simple Installation & Simple API
+```
+pip install kbyai
+```
+https://pypi.org/project/kbyai
