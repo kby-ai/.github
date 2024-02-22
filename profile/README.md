@@ -16,6 +16,9 @@ We offer SDKs for Face Recognition, Face Liveness Detection(Face Anti-Spoofing),
 ## Product & Resources
 https://github.com/kby-ai/Product
 
+## KYC Verification Demo
+https://github.com/kby-ai/KYC-Verification
+
 ## Simple Installation & Simple API
 ```
 pip install kbyai
@@ -32,9 +35,6 @@ idsdk.idcard_recognition
 idsdk.idcard_recognition_base64
 ```
 https://pypi.org/project/kbyai
-
-## KYC Verification Demo
-https://github.com/kby-ai/KYC-Verification
 
 ## Please contact us:
 ```
