@@ -41,3 +41,6 @@ idsdk.idcard_recognition
 idsdk.idcard_recognition_base64
 ```
 https://pypi.org/project/kbyai
+
+## KYC Verification
+https://github.com/kby-ai/KYC-Verification
