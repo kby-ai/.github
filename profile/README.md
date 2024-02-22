@@ -13,15 +13,6 @@
 We offer SDKs for Face Recognition, Face Liveness Detection(Face Anti-Spoofing), and ID Card Recognition.
 <br/>Besides that, we can provide several AI models and development services in machine learning.
 
-Please contact us:
-```
-Email: contact@kby-ai.com
-Telegram: @kbyai
-WhatsApp: +19092802609
-Skype: live:.cid.66e2522354b1049b
-Facebook: https://www.facebook.com/KBYAI
-```
-
 ## Product & Resources
 https://github.com/kby-ai/Product
 
@@ -44,3 +35,12 @@ https://pypi.org/project/kbyai
 
 ## KYC Verification Demo
 https://github.com/kby-ai/KYC-Verification
+
+## Please contact us:
+```
+Email: contact@kby-ai.com
+Telegram: @kbyai
+WhatsApp: +19092802609
+Skype: live:.cid.66e2522354b1049b
+Facebook: https://www.facebook.com/KBYAI
+```
