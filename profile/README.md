@@ -17,7 +17,7 @@ We offer SDKs for Face Recognition, Face Liveness Detection(Face Anti-Spoofing),
 https://github.com/kby-ai/Product
 
 ## KYC Verification Demo
-https://github.com/kby-ai/KYC-Verification
+https://github.com/kby-ai/KYC-Verification-Demo-Android
 
 ## Simple Installation & Simple API
 ```
