@@ -20,20 +20,17 @@ https://github.com/kby-ai/Product
 https://github.com/kby-ai/KYC-Verification-Demo-Android
 
 ## Simple Installation & Simple API
-### Face Liveness Detection Docker
-For more information, visit https://hub.docker.com/r/kbyai/face-liveness-detection.
+-  Face Liveness Detection Docker (https://hub.docker.com/r/kbyai/face-liveness-detection)
 ```
 sudo docker pull kbyai/face-liveness-detection:latest
 sudo docker run -e LICENSE="xxxxx" -p 8080:8080 -p 9000:9000 kbyai/face-liveness-detection:latest
 ```
-### Face Recognition Docker
-For more information, visit https://hub.docker.com/r/kbyai/face-recognition.
+- Face Recognition Docker (https://hub.docker.com/r/kbyai/face-recognition)
 ```
 sudo docker pull kbyai/face-recognition:latest
 sudo docker run -e LICENSE="xxxxx" -p 8081:8080 -p 9001:9000 kbyai/face-recognition:latest
 ```
-### ID Card Recognition Docker
-For more information, visit https://hub.docker.com/r/kbyai/idcard-recognition.
+- ID Card Recognition Docker (https://hub.docker.com/r/kbyai/idcard-recognition)
 ```
 sudo docker pull kbyai/idcard-recognition:latest
 sudo docker run -e LICENSE="xxxxx" -p 8082:8080 -p 9002:9000 kbyai/idcard-recognition:latest
