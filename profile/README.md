@@ -43,7 +43,6 @@ sudo docker run -e LICENSE="xxxxx" -p 8082:8080 -p 9002:9000 kbyai/idcard-recogn
 To learn more, visit [here](https://docs.kby-ai.com/help/).
 
 ### Please contact us:
----
 ```
 Email: contact@kby-ai.com
 Telegram: @kbyai
