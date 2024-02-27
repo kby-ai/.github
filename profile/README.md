@@ -1,5 +1,5 @@
 ## 👋 Welcome To KBY-AI Repository
-
+---
 <!--
 
 **Here are some ideas to get you started:**
@@ -10,16 +10,19 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-We offer SDKs for Face Recognition, Face Liveness Detection(Face Anti-Spoofing), and ID Card Recognition.<br/>
-Besides that, we provide several AI models and software development services in machine learning.
+We offer SDKs for face recognition, face liveness Detection(face anti-spoofing), and ID card recognition.<br/>
+Besides that, we provide several AI models and software development services in machine learning.</br>
 
 ### 📚 Product & Resources
+---
 To check all our products, visit [here](https://github.com/kby-ai/Product).
 
 ### 📚 KYC Verification Demo
+---
 To check our KYC verification demo, visit [here](https://github.com/kby-ai/KYC-Verification-Demo-Android).
 
 ### 🚀 Quick Installation
+---
 -  Face Liveness Detection Docker (https://hub.docker.com/r/kbyai/face-liveness-detection)
 ```bash
 sudo docker pull kbyai/face-liveness-detection:latest
@@ -36,9 +39,11 @@ sudo docker pull kbyai/idcard-recognition:latest
 sudo docker run -e LICENSE="xxxxx" -p 8082:8080 -p 9002:9000 kbyai/idcard-recognition:latest
 ```
 ### 📄 Product Demonstration
+---
 To learn more, visit [here](https://docs.kby-ai.com/help/).
 
 ### Please contact us:
+---
 ```
 Email: contact@kby-ai.com
 Telegram: @kbyai
