@@ -14,7 +14,6 @@ We offer SDKs for face recognition, face liveness Detection(face anti-spoofing),
 Besides that, we provide several AI models and software development services in machine learning.</br>
 
 #### 📚 Product & Resources - [Here](https://github.com/kby-ai/Product)
-#### 🛟 Help Center - [Here](https://docs.kby-ai.com/help/)
 #### 💼 KYC Verification Demo - [Here](https://github.com/kby-ai/KYC-Verification-Demo-Android)
 #### 🚀 Quick Installation
 -  Face Liveness Detection Docker (https://hub.docker.com/r/kbyai/face-liveness-detection)
