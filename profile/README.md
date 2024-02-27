@@ -17,7 +17,7 @@ Besides that, we provide several AI models and software development services in 
 To check all our products, visit [here](https://github.com/kby-ai/Product).
 
 ### 📚 KYC Verification Demo
-To learn more, visit [here](https://github.com/kby-ai/KYC-Verification-Demo-Android).
+To check our KYC verification demo, visit [here](https://github.com/kby-ai/KYC-Verification-Demo-Android).
 
 ### 🚀 Quick Installation
 -  Face Liveness Detection Docker (https://hub.docker.com/r/kbyai/face-liveness-detection)
@@ -35,8 +35,8 @@ sudo docker run -e LICENSE="xxxxx" -p 8081:8080 -p 9001:9000 kbyai/face-recognit
 sudo docker pull kbyai/idcard-recognition:latest
 sudo docker run -e LICENSE="xxxxx" -p 8082:8080 -p 9002:9000 kbyai/idcard-recognition:latest
 ```
-📄 Supported Page Templates
-
+📄 Product Demonstration
+To learn more, visit [here](https://docs.kby-ai.com/help/).
 
 ### Please contact us:
 ```
