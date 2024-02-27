@@ -10,16 +10,16 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-We offer SDKs for Face Recognition, Face Liveness Detection(Face Anti-Spoofing), and ID Card Recognition.
-<br/>Besides that, we can provide several AI models and development services in machine learning.
+We offer SDKs for Face Recognition, Face Liveness Detection(Face Anti-Spoofing), and ID Card Recognition.<br/>
+Besides that, we provide several AI models and software development services in machine learning.
 
-### Product & Resources
+### 📚 Product & Resources
 For more information, visit [Here](https://github.com/kby-ai/Product).
 
-### KYC Verification Demo
+### 📚 KYC Verification Demo
 For more information, visit [Here](https://github.com/kby-ai/KYC-Verification-Demo-Android).
 
-### Quick Installation
+### 🚀 Quick Installation
 -  Face Liveness Detection Docker (https://hub.docker.com/r/kbyai/face-liveness-detection)
 ```
 sudo docker pull kbyai/face-liveness-detection:latest
