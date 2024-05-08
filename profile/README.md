@@ -10,7 +10,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 We offer SDKs for face recognition, face liveness Detection(face anti-spoofing), and ID card recognition.<br/>
-We also specialize in providing outsourcing services with a variety of technical stacks like AI(Computer Vision/Machine Learning), Mobile apps, and web apps.</br>
+We also specialize in providing outsourcing services with a variety of technical stacks like AI(Computer Vision/Machine Learning) and mobile and web apps.</br>
 
 #### 📚 Product & Resources - [Here](https://github.com/kby-ai/Product)
 #### 🙋‍♀️ Docker Hub - [Here](https://hub.docker.com/u/kbyai)
