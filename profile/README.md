@@ -15,22 +15,49 @@ We also specialize in providing outsourcing services with a variety of technical
 #### 📚 Product & Resources - [Here](https://github.com/kby-ai/Product)
 #### 🙋‍♀️ Docker Hub - [Here](https://hub.docker.com/u/kbyai)
 #### 💼 KYC Verification Demo - [Here](https://github.com/kby-ai/KYC-Verification-Demo-Android)
-#### 🚀 Quick Installation
--  Face Liveness Detection Docker (https://hub.docker.com/r/kbyai/face-liveness-detection)
-```bash
-sudo docker pull kbyai/face-liveness-detection:latest
-sudo docker run -e LICENSE="xxxxx" -p 8080:8080 -p 9000:9000 kbyai/face-liveness-detection:latest
-```
-- Face Recognition Docker (https://hub.docker.com/r/kbyai/face-recognition)
-```bash
-sudo docker pull kbyai/face-recognition:latest
-sudo docker run -e LICENSE="xxxxx" -p 8081:8080 -p 9001:9000 kbyai/face-recognition:latest
-```
-- ID Card Recognition Docker (https://hub.docker.com/r/kbyai/idcard-recognition)
-```bash
-sudo docker pull kbyai/idcard-recognition:latest
-sudo docker run -e LICENSE="xxxxx" -p 8082:8080 -p 9002:9000 kbyai/idcard-recognition:latest
-```
+#### 🚀 ID document auto-capture on Javascript - [ID Document Capture - Javascript](https://github.com/kby-ai/ID-document-capture-Javascript)
+
+### ✅ Our Projects
+#### 1. Face Liveness Detection
+- [Face Liveness Detection - Android(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-Android)
+- [Face Liveness Detection - iOS(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-iOS)
+- [Face Liveness Detection - Linux](https://github.com/kby-ai/FaceLivenessDetection-Docker)
+- [Face Liveness Detection - Windows](https://github.com/kby-ai/FaceLivenessDetection-Windows)
+
+#### 2. Face Recognition
+- [Face Recognition - Android(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Android)
+- [Face Recognition - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
+- [Face Recognition - Flutter(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Flutter)
+- [Face Recognition - React-Native(Standard SDK)](https://github.com/kby-ai/FaceRecognition-React-Native)
+- [Face Recognition - Linux](https://github.com/kby-ai/FaceRecognition-Docker)
+- [Face Recognition - Windows](https://github.com/kby-ai/FaceRecognition-Windows)
+
+#### 3. ID Card Recognition
+- [IDCardRecognition - Android](https://github.com/kby-ai/IDCardRecognition-Android)
+- [IDCardRecognition - iOS](https://github.com/kby-ai/IDCardRecognition-iOS)
+- [IDCardRecognition - Flutter](https://github.com/kby-ai/IDCardRecognition-Flutter)
+- [IDCardRecognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)
+- [IDCardRecognition - Windows](https://github.com/kby-ai/FaceLivenessDetection-Windows)
+
+#### 4. Face Attribute
+- [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
+- [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
+
+#### 5. Auto Capture on Web Front-end
+- [Face Capture - Javascript](https://github.com/kby-ai/facecapture-web)
+- [ID Document Capture - Javascript](https://github.com/kby-ai/ID-document-capture-Javascript)
+  
+#### 6. eKYC Verification Demo
+- [eKYC Verification Demo - Android](https://github.com/kby-ai/KYC-Verification-Demo-Android)
+  
+#### 7. Face Tracking
+- [Face Tracker - Linux](https://github.com/kby-ai/Face-Tracker-Linux)
+- [Face Tracker - Windows](https://github.com/kby-ai/Face-Tracker-Windows)
+
+#### 8. ALPR/ANPR
+- [Automatic License Plate Recognition - Python](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Python)
+- [Automatic License Plate Recognition - Flutter](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Flutter)
+  
 #### Please contact us:
 🧙`Email:` contact@kby-ai.com</br>
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
