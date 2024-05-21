@@ -12,10 +12,10 @@
 We offer SDKs for face recognition, face liveness Detection(face anti-spoofing), and ID card recognition.<br/>
 We also specialize in providing outsourcing services with a variety of technical stacks like AI(Computer Vision/Machine Learning) and mobile and web apps.</br>
 
+#### 🚀 ID Document Auto-Capture on Web Front-end - [ID Document Capture - React](https://github.com/kby-ai/ID-document-capture-React)  🔥NEW🔥     
 #### 📚 Product & Resources - [Here](https://github.com/kby-ai/Product)
 #### 🙋‍♀️ Docker Hub - [Here](https://hub.docker.com/u/kbyai)
 #### 💼 KYC Verification Demo - [Here](https://github.com/kby-ai/KYC-Verification-Demo-Android)
-#### 🚀 ID Document Auto-Capture on Web Front-end - [ID Document Capture - React](https://github.com/kby-ai/ID-document-capture-React)
 
 ### ✅ Our Projects
 #### 1. Face Liveness Detection</br>
