@@ -15,7 +15,7 @@ We also specialize in providing outsourcing services with a variety of technical
 #### 📚 Product & Resources - [Here](https://github.com/kby-ai/Product)
 #### 🙋‍♀️ Docker Hub - [Here](https://hub.docker.com/u/kbyai)
 #### 💼 KYC Verification Demo - [Here](https://github.com/kby-ai/KYC-Verification-Demo-Android)
-#### 🚀 ID document auto-capture on Javascript - [ID Document Capture - Javascript](https://github.com/kby-ai/ID-document-capture-Javascript)
+#### 🚀 ID Document Auto-Capture on Web Front-end - [ID Document Capture - React](https://github.com/kby-ai/ID-document-capture-React)
 
 ### ✅ Our Projects
 #### 1. Face Liveness Detection
@@ -45,7 +45,7 @@ We also specialize in providing outsourcing services with a variety of technical
 
 #### 5. Auto Capture on Web Front-end
 - [Face Capture - Javascript](https://github.com/kby-ai/facecapture-web)
-- [ID Document Capture - Javascript](https://github.com/kby-ai/ID-document-capture-Javascript)
+- [ID Document Capture - React](https://github.com/kby-ai/ID-document-capture-React)
   
 #### 6. eKYC Verification Demo
 - [eKYC Verification Demo - Android](https://github.com/kby-ai/KYC-Verification-Demo-Android)
