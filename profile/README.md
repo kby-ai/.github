@@ -39,6 +39,7 @@ We also specialize in providing outsourcing services with a variety of technical
 #### 4. Face Attribute<br/>
 - [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
 - [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
+- [Face Attribute - Flutter(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Flutter)
 #### 5. Auto Capture on Web Front-end</br>
 - [Face Capture - Javascript](https://github.com/kby-ai/facecapture-web)
 - [ID Document Capture - React](https://github.com/kby-ai/ID-document-capture-React)
