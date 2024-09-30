@@ -28,6 +28,7 @@ We also specialize in providing outsourcing services with a variety of technical
 - [Face Recognition - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
 - [Face Recognition - Flutter(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Flutter)
 - [Face Recognition - React-Native(Standard SDK)](https://github.com/kby-ai/FaceRecognition-React-Native)
+- [Face Recognition - Ionic-Cordova(Standard SDK)](https://github.com/kby-ai/FaceRececogniion-Ionic-Cordova)
 - [Face Recognition - Linux](https://github.com/kby-ai/FaceRecognition-Docker)
 - [Face Recognition - Windows](https://github.com/kby-ai/FaceRecognition-Windows)
 #### 3. ID Card Recognition<br/>
