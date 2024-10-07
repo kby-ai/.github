@@ -33,11 +33,11 @@ We also specialize in providing outsourcing services with a variety of technical
 - [Face Recognition - Linux](https://github.com/kby-ai/FaceRecognition-Docker)
 - [Face Recognition - Windows](https://github.com/kby-ai/FaceRecognition-Windows)
 #### 3. ID Card Recognition<br/>
-- [IDCardRecognition - Android](https://github.com/kby-ai/IDCardRecognition-Android)
-- [IDCardRecognition - iOS](https://github.com/kby-ai/IDCardRecognition-iOS)
-- [IDCardRecognition - Flutter](https://github.com/kby-ai/IDCardRecognition-Flutter)
-- [IDCardRecognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)
-- [IDCardRecognition - Windows](https://github.com/kby-ai/IDCardRecognition-Windows)
+- [ID Card Recognition - Android](https://github.com/kby-ai/IDCardRecognition-Android)
+- [ID Card Recognition - iOS](https://github.com/kby-ai/IDCardRecognition-iOS)
+- [ID Card Recognition - Flutter](https://github.com/kby-ai/IDCardRecognition-Flutter)
+- [ID Card Recognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)
+- [ID Card Recognition - Windows](https://github.com/kby-ai/IDCardRecognition-Windows)
 #### 4. Face Attribute<br/>
 - [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
 - [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
@@ -53,6 +53,8 @@ We also specialize in providing outsourcing services with a variety of technical
 #### 8. ALPR/ANPR<br/>
 - [Automatic License Plate Recognition - Python](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Python)
 - [Automatic License Plate Recognition - Flutter](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Flutter)
+#### 9. Palm Recognition<br/>
+- [Plam Recognition - Android](https://github.com/kby-ai/PalmRecognition-Android)
   
 #### Please contact us:
 🧙`Email:` contact@kby-ai.com</br>
