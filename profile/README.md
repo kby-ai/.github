@@ -32,6 +32,7 @@ We also specialize in providing outsourcing services with a variety of technical
 - [Face Recognition - Ionic-Cordova(Standard SDK)](https://github.com/kby-ai/FaceRececogniion-Ionic-Cordova)
 - [Face Recognition - Linux](https://github.com/kby-ai/FaceRecognition-Docker)
 - [Face Recognition - Windows](https://github.com/kby-ai/FaceRecognition-Windows)
+- [Face Recognition - C#](https://github.com/kby-ai/FaceRecognition-CSharp-.NET)
 #### 3. ID Card Recognition<br/>
 - [ID Card Recognition - Android](https://github.com/kby-ai/IDCardRecognition-Android)
 - [ID Card Recognition - iOS](https://github.com/kby-ai/IDCardRecognition-iOS)
