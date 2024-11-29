@@ -56,7 +56,8 @@ We also specialize in providing outsourcing services with a variety of technical
 - [Automatic License Plate Recognition - Python](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Python)
 - [Automatic License Plate Recognition - Flutter](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Flutter)
 #### 9. Palm Recognition<br/>
-- [Plam Recognition - Android](https://github.com/kby-ai/PalmRecognition-Android)
+- [Palmprint Recognition - Android](https://github.com/kby-ai/PalmRecognition-Android)
+- [Palmprint Recognition - Linux](https://github.com/kby-ai/Palmprint-Recognition-Linux)
   
 #### Please contact us:
 🧙`Email:` contact@kby-ai.com</br>
