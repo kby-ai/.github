@@ -53,7 +53,7 @@ We also specialize in providing outsourcing services with a variety of technical
 - [Face Tracker - Linux](https://github.com/kby-ai/Face-Tracker-Linux)
 - [Face Tracker - Windows](https://github.com/kby-ai/Face-Tracker-Windows)
 #### 8. ALPR/ANPR<br/>
-- [Automatic License Plate Recognition - Python](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Python)
+- [Automatic License Plate Recognition - Linux](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Python)
 - [Automatic License Plate Recognition - Flutter](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Flutter)
 #### 9. Palm Recognition<br/>
 - [Palmprint Recognition - Android](https://github.com/kby-ai/PalmRecognition-Android)
