@@ -24,10 +24,11 @@ We also specialize in providing outsourcing services with a variety of technical
 
 ### ✅ Our Projects
 #### 1. Face Liveness Detection</br>
-- [Face Liveness Detection - Android(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-Android)</br>
+- [Face Liveness Detection - Android(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-Android)
 - [Face Liveness Detection - iOS(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-iOS)
 - [Face Liveness Detection - Linux](https://github.com/kby-ai/FaceLivenessDetection-Docker)
 - [Face Liveness Detection - Windows](https://github.com/kby-ai/FaceLivenessDetection-Windows)
+- [Face Active Liveness Detection - Android](https://github.com/kby-ai/FaceActiveLivenessDetection-Android)
 #### 2. Face Recognition</br>
 - [Face Recognition - Android(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Android)
 - [Face Recognition - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
