@@ -47,6 +47,7 @@ We also specialize in providing outsourcing services with a variety of technical
 - [ID Card Recognition - Flutter](https://github.com/kby-ai/IDCardRecognition-Flutter)
 - [ID Card Recognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)
 - [ID Card Recognition - Windows](https://github.com/kby-ai/IDCardRecognition-Windows)
+- [ID Card Recognition - C#](https://github.com/kby-ai/IDCardRecognition-CSharp-.NET)
 #### 4. Face Attribute<br/>
 - [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
 - [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
