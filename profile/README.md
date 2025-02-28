@@ -57,12 +57,12 @@ We also specialize in providing outsourcing services with a variety of technical
 - [ID Document Capture - React](https://github.com/kby-ai/ID-document-capture-React)
 #### 6. eKYC Verification Demo<br/>
 - [eKYC Verification Demo - Android](https://github.com/kby-ai/KYC-Verification-Demo-Android)
-#### 7. Face Tracking<br/>
-- [Face Tracker - Linux](https://github.com/kby-ai/Face-Tracker-Linux)
-- [Face Tracker - Windows](https://github.com/kby-ai/Face-Tracker-Windows)
-#### 8. ALPR/ANPR<br/>
+#### 7. ALPR/ANPR<br/>
 - [Automatic License Plate Recognition - Linux](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Python)
 - [Automatic License Plate Recognition - Flutter](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Flutter)
+#### 8. Face Tracking<br/>
+- [Face Tracker - Linux](https://github.com/kby-ai/Face-Tracker-Linux)
+- [Face Tracker - Windows](https://github.com/kby-ai/Face-Tracker-Windows)
 #### 9. Palm Recognition<br/>
 - [Palmprint Recognition - Android](https://github.com/kby-ai/PalmRecognition-Android)
 - [Palmprint Recognition - Linux](https://github.com/kby-ai/Palmprint-Recognition-Linux)
