@@ -9,7 +9,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-We offer SDKs for face recognition, face liveness Detection(face anti-spoofing), ID card recognition, palm recognition and license plate recognition(LPR), etc.<br/>
+We offer SDKs for face recognition, face liveness Detection(face anti-spoofing), ID card recognition, ID document liveness detection and license plate recognition(LPR), etc.<br/>
 We also specialize in providing outsourcing services with a variety of technical stacks like AI(Computer Vision/Machine Learning) and mobile and web apps.</br>
 
 ### Our facial recognition algorithm is globally top-ranked by NIST in the FRVT 1:1 leaderboards. <span><img src="https://github.com/kby-ai/.github/assets/125717930/bcf351c5-8b7a-496e-a8f9-c236eb8ad59e" alt="badge" width="36" height="20"></span>  
@@ -33,11 +33,11 @@ We also specialize in providing outsourcing services with a variety of technical
 - [Face Liveness Detection - C#](https://github.com/kby-ai/FaceLivenessDetection-CSharp-.Net)
 - [Face Active Liveness Detection - Android](https://github.com/kby-ai/FaceActiveLivenessDetection-Android)
 #### 2. Face Recognition</br>
-- [Face Recognition - Android(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Android)
-- [Face Recognition - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
-- [Face Recognition - Flutter(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Flutter)
-- [Face Recognition - React-Native(Standard SDK)](https://github.com/kby-ai/FaceRecognition-React-Native)
-- [Face Recognition - Ionic-Cordova(Standard SDK)](https://github.com/kby-ai/FaceRececogniion-Ionic-Cordova)
+- [Face Recognition with Face Liveness Detection - Android(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Android)
+- [Face Recognition with Face Liveness Detection - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
+- [Face Recognition with Face Liveness Detection - Flutter(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Flutter)
+- [Face Recognition with Face Liveness Detection - React-Native(Standard SDK)](https://github.com/kby-ai/FaceRecognition-React-Native)
+- [Face Recognition with Face Liveness Detection - Ionic-Cordova(Standard SDK)](https://github.com/kby-ai/FaceRececogniion-Ionic-Cordova)
 - [Face Recognition - Linux](https://github.com/kby-ai/FaceRecognition-Docker)
 - [Face Recognition - Windows](https://github.com/kby-ai/FaceRecognition-Windows)
 - [Face Recognition - C#](https://github.com/kby-ai/FaceRecognition-CSharp-.NET)
