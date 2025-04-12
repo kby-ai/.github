@@ -68,6 +68,8 @@ We also specialize in providing outsourcing services with a variety of technical
 #### 9. Palm Recognition<br/>
 - [Palmprint Recognition - Android](https://github.com/kby-ai/PalmRecognition-Android)
 - [Palmprint Recognition - Linux](https://github.com/kby-ai/Palmprint-Recognition-Linux)
+#### 10. Computer Vision Products
+- [Fire/Smoke Detection - Linux](https://github.com/kby-ai/Fire-Smoke-Detection)
   
 #### Please contact us:
 🧙`Email:` contact@kby-ai.com</br>
