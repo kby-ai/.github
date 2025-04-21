@@ -68,6 +68,7 @@ We also specialize in providing outsourcing services with a variety of technical
 #### 9. Palm Recognition<br/>
 - [Palmprint Recognition - Android](https://github.com/kby-ai/PalmRecognition-Android)
 - [Palmprint Recognition - Linux](https://github.com/kby-ai/Palmprint-Recognition-Linux)
+- [Palmvein Recognition - Linux](https://github.com/kby-ai/Palmvein-Recognition-Docker)
 #### 10. Computer Vision Products
 - [Fire/Smoke Detection - Linux](https://github.com/kby-ai/Fire-Smoke-Detection-Docker)
   
