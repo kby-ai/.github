@@ -41,6 +41,9 @@ We also specialize in providing outsourcing services with a variety of technical
 - [Face Recognition - Linux](https://github.com/kby-ai/FaceRecognition-Docker)
 - [Face Recognition - Windows](https://github.com/kby-ai/FaceRecognition-Windows)
 - [Face Recognition - C#](https://github.com/kby-ai/FaceRecognition-CSharp-.NET)
+- [Face Recognition - Vue](https://github.com/kby-ai/FaceRecognition-Vue)
+- [Face Recognition - JavaScript](https://github.com/kby-ai/FaceRecognition-JavaScript)
+- [Face Recognition - React](https://github.com/kby-ai/FaceRecognition-React)
 #### 3. ID Card Recognition<br/>
 - [ID Card Recognition - Android](https://github.com/kby-ai/IDCardRecognition-Android)
 - [ID Card Recognition - iOS](https://github.com/kby-ai/IDCardRecognition-iOS)
