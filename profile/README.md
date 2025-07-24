@@ -9,7 +9,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-We provide a range of SDKs, including face liveness, face recognition, ID document recognition, ID document liveness, license plate recognition (LPR), and more.</br>
+We provide a range of SDKs, including face liveness detection, face recognition, ID document recognition, ID document liveness detection, license plate recognition (LPR), and more.</br>
 Each SDK is available in multiple versions: mobile (Android, iOS, Flutter, React Native, Ionic Cordova), C#, and server-side.</br>
 We also specialize in providing outsourcing services with a variety of technical stacks like AI(Computer Vision/Machine Learning) and mobile and web apps.</br>
 
