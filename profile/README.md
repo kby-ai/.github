@@ -1,4 +1,4 @@
-## 👋 Welcome To KBY-AI Repository
+## 👋 Welcome to KBY-AI Repository
 <!--
 
 **Here are some ideas to get you started:**
