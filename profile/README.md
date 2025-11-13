@@ -72,6 +72,7 @@ Our facial recognition algorithm is ranked among the top globally by NIST in the
 - [Automatic License Plate Recognition - Flutter](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Flutter)
 - [Automatic License Plate Recognition - C#](https://github.com/kby-ai/Automatic-License-Plate-Recognition-CSharp-.NET)
 - [Automatic License Plate Recognition - Android](https://github.com/kby-ai/Automatic-License-Plate-Recognition-Android)
+- [Automatic License Plate Recognition - iOS](https://github.com/kby-ai/Automatic-License-Plate-Recognition-iOS)
 #### 8. Face Tracking<br/>
 - [Face Tracker - Linux](https://github.com/kby-ai/Face-Tracker-Linux)
 - [Face Tracker - Windows](https://github.com/kby-ai/Face-Tracker-Windows)
