@@ -28,7 +28,7 @@ Our facial recognition algorithm is ranked among the top globally by NIST in the
 - 💼 **KYC Verification Demo (Android):** [Check It Out](https://github.com/kby-ai/KYC-Verification-Demo-Android)  
 - 🙋‍♀️ **Docker Hub:** [Explore Here](https://hub.docker.com/u/kbyai)  
 
-### ✅ Our Projects
+### ✅ Our Products
 #### 1. Face Liveness Detection</br>
 - [Face Liveness Detection - Android(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-Android)
 - [Face Liveness Detection - iOS(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-iOS)
