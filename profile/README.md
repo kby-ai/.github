@@ -58,6 +58,7 @@ Our facial recognition algorithm is ranked among the top globally by NIST in the
 - [ID Card Recognition - Windows](https://github.com/kby-ai/IDCardRecognition-Windows)
 - [ID Card Recognition - C#](https://github.com/kby-ai/IDCardRecognition-CSharp-.NET)
 - [ID Card Detection - Android](https://github.com/kby-ai/IDCardDetection-Android)
+- [ID Card Liveness Detection - Linux](https://github.com/kby-ai/ID-Document-Liveness-Detection-Docker)
 #### 4. Face Attribute<br/>
 - [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
 - [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
