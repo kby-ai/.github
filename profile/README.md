@@ -88,7 +88,7 @@ Our facial recognition algorithm is ranked among the top globally by NIST in the
 
 - 🧙 **Email:** contact@kby-ai.com  
 - 🧙 **Telegram:** [@kbyaisupport](https://t.me/kbyaisupport)
-- 🧙 **WhatsApp:** [+1 909-280-2609](https://wa.me/+19092802609)  
+- 🧙 **WhatsApp:** [+1 909-280-2609](https://wa.me/+13348402323)  
 - 🧙 **Discord:** [KBY-AI Community](https://discord.gg/6wm383re2s)  
 - 🧙 **Microsoft Teams:** [Join Here](https://teams.live.com/l/invite/FBAYGB1-IlXkuQM3AY)
 
